@@ -8,6 +8,7 @@ categories: jekyll update
 
 ```diff
 - This line is redacted
++ aaa This line is visible
 - This line has been deleted
 + This line is visible
 + This line has been inserted
