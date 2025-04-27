@@ -26,6 +26,21 @@ This line has not been changed
     color: #ab45ef;
 ```
 
+```ruby
+21 + 54 = 0
+foo ||= bar
+foo / bar
+
+24
+45.75
+0x2C716
+\x0A
+01010
+
+/ya?ml/
+"yaml"
+```
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
